@@ -61,7 +61,7 @@
 *An end-to-end BI solution analyzing engagement, growth, and revenue trends for digital streaming platforms[cite: 1].*
 * **Execution:** Built automated Python data pipelines using Pandas for cleaning and transformation; designed an interactive multi-page Power BI dashboard[cite: 1].
 * **BI Metrics:** Developed dynamic DAX measures for Monthly Revenue, Active Users, Retention, and Conversion KPIs[cite: 1].
-* ➡️ **[Explore Codebase](https://github.com/Jahanvi-Rana/Jahanvi-Rana/tree/main/projects/ott-streaming-dashboard)** | 📊 **[View Dashboard Design](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)**
+* ➡️ **[Explore Codebase](ott-streaming-platform.ipynb)** | 📊 **[View Dashboard Design](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)**
 
 ---
 
@@ -69,7 +69,7 @@
 *A predictive analytics platform forecasting global and Indian gold prices by merging macro indicators with ensemble ML models[cite: 1].*
 * **Execution:** Engineered complex time-series features from multi-source financial timelines; trained and compared XGBoost, LightGBM, and CatBoost structures[cite: 1].
 * **BI Metrics:** Built Power BI dashboards tracking price vectors, economic indexes, correlation heatmaps, and future forecasting variances[cite: 1].
-* ➡️ **[Explore Codebase](https://github.com/Jahanvi-Rana/Jahanvi-Rana/tree/main/projects/gold-price-forecasting)** | 📊 **[View Market Dashboard](https://drive.google.com/file/d/152X6GEbXTDm5v7WR89sKmGtMc5DLDdbl/view?usp=sharing)**
+* ➡️ **[Explore Codebase](gold-prediction-model.ipynb)** | 📊 **[View Market Dashboard](https://drive.google.com/file/d/152X6GEbXTDm5v7WR89sKmGtMc5DLDdbl/view?usp=sharing)**
 
 <br>
 
