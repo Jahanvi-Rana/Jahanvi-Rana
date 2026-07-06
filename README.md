@@ -38,7 +38,7 @@
       <ul>
         <li>Advanced Joins, CTEs, Window Functions</li>
         <li>Aggregate Functions, Subqueries, Views</li>
-        <li>Data Filtering & Grouping[cite: 1]</li>
+        <li>Data Filtering & Grouping</li>
       </ul>
     </td>
     <td width="50%" valign="top">
