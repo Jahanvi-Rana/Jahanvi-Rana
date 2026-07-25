@@ -11,7 +11,7 @@
   
 
 
-  <p>🚀 <b> Data Analyst and BI Engineer with a strong foundation in Python, SQL, and Power BI, specializing in translating complex datasets into actionable business strategies. Experienced in building end-to-end data pipelines and deploying high-fidelity, interactive KPI dashboards that directly support executive decision-making and optimize operational performance.</p>
+  <p>🚀 <b> Data Analyst and BI Engineer with a strong foundation in Excel,Python, SQL, and Power BI, specializing in translating complex datasets into actionable business strategies. Experienced in building end-to-end data pipelines and deploying high-fidelity, interactive KPI dashboards that directly support executive decision-making and optimize operational performance.</p>
 </div>
 
 <br>
@@ -91,6 +91,7 @@
 
 * **🎓 B.E. Computer Science Engineering (AI & Machine Learning)** | Chandigarh University *(CGPA: 7.75/10 | Expected Graduation: 2026)*
 * **📜 Industry Certifications:**
+  * * Python Essentials 1 & 2* – Cisco Networking Academy & OpenEDG Python Institute 
   * *Preparing Data for Analysis with Microsoft Excel* — Microsoft Learn.
   * *Extract, Transform and Load Data in Power BI* — Microsoft Learn.
   * *Data Modeling in Power BI* — Microsoft Learn.
