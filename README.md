@@ -90,7 +90,7 @@
 ## 🎓 Education & Background
 
 * **🎓 B.E. Computer Science Engineering (AI & Machine Learning)** | Chandigarh University *(CGPA: 7.75/10 | Expected Graduation: 2026)*
-* **📜 Industry Certifications:**
+* **📜 Industry Training and Certifications:**
   * Python Essentials 1 & 2 – Cisco Networking Academy & OpenEDG Python Institute 
   * *Preparing Data for Analysis with Microsoft Excel* — Microsoft Learn.
   * *Extract, Transform and Load Data in Power BI* — Microsoft Learn.
