@@ -82,7 +82,7 @@
 
 > **Co-Author | International Research Publication (2025)**  
 > **Paper:** *"Enhancing YOLO with Rotated Bounding Boxes and ResNet50 Backbone for Accurate Orientation-Aware Object Detection"*  
-> **Platform:** Published on SSRN. Focused on improving orientation-aware object detection metrics using deep learning structures and advanced foundational backbones.
+> **Platform:** Proceedings of the International Conference on Innovative Computing and Communication (ICICC 2026), hosted on SSRN.
 
 <br>
 
