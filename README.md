@@ -11,7 +11,7 @@
   
 
 
-  <p>🚀 <b> Data Analyst and BI Engineer with a strong foundation in Excel,Python, SQL, and Power BI, specializing in translating complex datasets into actionable business strategies. Experienced in building end-to-end data pipelines and deploying high-fidelity, interactive KPI dashboards that directly support executive decision-making and optimize operational performance.</p>
+  <p>🚀 <b> Data Analyst and BI Engineer with a strong foundation in Excel, Python, SQL, and Power BI, specializing in translating complex datasets into actionable business strategies. Experienced in building end-to-end data pipelines and deploying high-fidelity, interactive KPI dashboards that directly support executive decision-making and optimize operational performance.</p>
 </div>
 
 <br>
