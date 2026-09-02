@@ -65,7 +65,7 @@
 *An end-to-end BI solution analyzing engagement, growth, and revenue trends for digital streaming platforms.*
 * **Execution:** Built automated Python data pipelines using Pandas for cleaning and transformation; designed an interactive multi-page Power BI dashboard.
 * **BI Metrics:** Developed dynamic DAX measures for Monthly Revenue, Active Users, Retention, and Conversion KPIs.
-* ➡️ **[Explore Codebase](ott-streaming-platform.ipynb)** | 📊 **[View Dashboard Design](https://drive.google.com/file/d/1zg2HGlrUExk5zCjRtMdK1k5geEIWZ7Jn/view?usp=sharing)**
+* ➡️ **[Explore Codebase](ott-streaming-platform.ipynb)** | 📊 **[View Dashboard Design](https://drive.google.com/file/d/11Gt-jE8nI5EMzbWKtYzpiRqDNBkK6RmM/view?usp=sharing)**
 
 ---
 
